@@ -18,5 +18,5 @@ I am a Senior Mobile Software Engineer specializing in building scalable, resili
 ### 💬 Connect with Me
 
 * **GitHub Profile:** [github.com/deepshukla](https://github.com/deepshukla)
-* **LinkedIn:** [Your LinkedIn URL Here]
+* **LinkedIn:** www.linkedin.com/in/deep-narayan-shukla-ab42bb21
 * **Availability:** Open to Senior Tech Lead, Staff, and Mobile Architect tracks in high-scale product startups.
